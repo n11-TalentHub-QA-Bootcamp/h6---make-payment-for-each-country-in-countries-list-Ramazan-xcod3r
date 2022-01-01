@@ -1,0 +1,6 @@
+/target
+*.swp
+/.idea
+*.DS_Store
+/src/test/java/garbageThoughts
+EriBankScreenplayTests.iml
